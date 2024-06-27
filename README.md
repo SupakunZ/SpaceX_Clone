@@ -1,7 +1,7 @@
 # SpaceX-Clone
-Tesla Website Clone created with ReactJs,React-router and Bootstrap CSS.
+SpaceX Website Clone created with ReactJs,AOS and CSS 3
 
-https://github.com/SupakunZ/Tesla_Clone/assets/168329218/8c07fab0-55fc-475d-9aaa-5d163b122637
+https://github.com/SupakunZ/SpaceX_Clone/assets/168329218/3bd11cc4-65fa-48db-8d31-59d734a7e2ab
 
 ## 🚀 Live Demo 
 <a href='https://google.co.th/' target="_blank">SpaceX-Clone</a>
@@ -18,8 +18,8 @@ https://github.com/SupakunZ/Tesla_Clone/assets/168329218/8c07fab0-55fc-475d-9aaa
   
   <ul>
       <li>ReactJS</li>
-      <li>Bootstrap CSS</li>
-      <li>React Router</li>
+      <li>CSS 3</li>
+      <li>AOS</li>
   </ul>
 
 
