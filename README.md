@@ -35,7 +35,7 @@ git clone https://github.com/SupakunZ/SpaceX_Clone.git
 2. Navigate to the project folder and install dependencies :
 
 ```
-cd tesla-clone
+cd SpaceX_Clone
 npm install
 ```
 
