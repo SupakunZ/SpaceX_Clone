@@ -9,7 +9,8 @@ https://github.com/SupakunZ/SpaceX_Clone/assets/168329218/3bd11cc4-65fa-48db-8d3
 ## 🌏 Features
 
   <ul>
-      <li>Active navbar similar to original</li>
+      <li>Active navbar same to original</li>
+      <li>Effect windows same to original</li>
       <li>Smooth scrolling like original</li>
       <li>Responsive with all devices</li>
   </ul>
