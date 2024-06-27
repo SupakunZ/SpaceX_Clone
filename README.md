@@ -28,7 +28,7 @@ https://github.com/SupakunZ/SpaceX_Clone/assets/168329218/3bd11cc4-65fa-48db-8d3
 1. Clone this repository :
 
 ```bash
-git clone https://github.com/SupakunZ/Tesla_Clone.git
+git clone https://github.com/SupakunZ/SpaceX_Clone.git
 ```
 
 2. Navigate to the project folder and install dependencies :
