@@ -1,4 +1,4 @@
-# SpaceX-Clone | react app
+# SpaceX-Clone
 SpaceX Website Clone created with ReactJs,AOS and CSS 3
 
 https://github.com/SupakunZ/SpaceX_Clone/assets/168329218/3bd11cc4-65fa-48db-8d31-59d734a7e2ab
